@@ -6,7 +6,7 @@ I'm currently teaching
  - Math for BigData
  - Calculus and Linear ALgebra
  - C++ and OpenGL Realtime 3D programming with Qt
- - Java
+ - Java and Android programming
  - Swift and iOS programming
  - Angular
 
