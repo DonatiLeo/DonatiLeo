@@ -1,7 +1,13 @@
 ## Hi 👋, I'm Leo Donati, PhD
 
 Math and Computer Science teacher at **Digital Science For Humans**  (DS4H) *graduate school* at **Université Côte d'Azur**
-
+Teaching 
+ - Math for BigData
+ - Calculus and Linear ALgebra
+ - C++ and OpenGL Realtime 3D programming with Qt
+ - Java
+ - Swift and iOS programming
+ - Angular
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
