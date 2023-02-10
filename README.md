@@ -4,11 +4,11 @@ Math and Computer Science teacher at **Digital Science For Humans**  (DS4H) *gra
 
 I'm currently teaching 
  - Math for BigData
- - Calculus and Linear ALgebra
+ - Calculus and Linear Algebra
  - C++ and OpenGL Realtime 3D programming with Qt
  - Java and Android programming
  - Swift and iOS programming
- - Angular
+ - Advanced Javascript with Angular
 
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
