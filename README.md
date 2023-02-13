@@ -3,12 +3,13 @@
 Math and Computer Science teacher at **Digital Science For Humans**  (DS4H) *graduate school* at **Université Côte d'Azur**
 
 I'm currently teaching 
- - Math for BigData
+ - Math for BigData using R
  - Calculus and Linear Algebra
  - C++ and OpenGL Realtime 3D programming with Qt
  - Java and Android programming
  - Swift and iOS programming
  - Advanced Javascript with Angular
+ - Recursivity and Theory of Games with Pythoon
 
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
