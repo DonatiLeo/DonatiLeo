@@ -9,7 +9,7 @@ I'm currently teaching
  - Java and Android programming
  - Swift and iOS programming
  - Advanced Javascript with Angular
- - Recursivity and Theory of Games with Pythoon
+ - Recursivity and Theory of Games with Python
 
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
