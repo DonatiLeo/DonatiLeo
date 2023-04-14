@@ -10,6 +10,8 @@ I'm currently teaching
  - Swift and iOS programming
  - Advanced Javascript with Angular
  - Recursivity and Theory of Games with Python
+ - Microservices and CI with Spring
+ - Advanced Human-Computer Interface and VR with Unity
 
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
