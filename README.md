@@ -5,9 +5,9 @@ Math and Computer Science teacher at **Digital Science For Humans**  (DS4H) *gra
 I'm currently teaching 
  - Math for BigData using R
  - Calculus and Linear Algebra
- - C++ and OpenGL Realtime 3D programming with Qt
- - Java and Android programming
- - Swift and iOS programming
+ - C++ and OpenGL Realtime 3D Programming with Qt
+ - Java and Android Programming
+ - Swift and iOS Programming
  - Advanced Javascript with Angular
  - Recursivity and Theory of Games with Python
  - Microservices and CI with Spring
