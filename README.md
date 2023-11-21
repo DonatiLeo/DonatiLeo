@@ -8,7 +8,7 @@ I'm currently teaching
  - C++ and OpenGL Realtime 3D Programming with Qt
  - Java and Android Programming
  - Swift and iOS Programming
- - Advanced Javascript with Angular
+ - Advanced Web Programming with LEAN
  - Recursivity and Theory of Games with Python
  - Microservices and CI with Spring
  - Advanced Human-Computer Interface and VR with Unity
