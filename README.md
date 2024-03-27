@@ -6,7 +6,8 @@ I'm currently teaching
  - Math for BigData using R
  - Calculus and Linear Algebra
  - C++ and OpenGL Realtime 3D Programming with Qt
- - Java and Android Programming
+ - Intermediate Java Programming
+ - Android Programming with Kotlin and Jetpack Compose 
  - Swift and iOS Programming
  - Advanced Web Programming with LEAN
  - Recursivity and Theory of Games with Python
