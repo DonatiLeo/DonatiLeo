@@ -4,15 +4,14 @@ Math and Computer Science teacher at **Digital Science For Humans**  (DS4H) *gra
 
 I'm currently teaching 
  - Math for BigData using R
- - Calculus and Linear Algebra
  - C++ and OpenGL Realtime 3D Programming with Qt
  - Intermediate Java Programming
  - Android Programming with Kotlin and Jetpack Compose 
  - Swift and iOS Programming
  - Advanced Web Programming with LEAN
- - Recursivity and Theory of Games with Python
  - Microservices and CI with Spring
  - Advanced Human-Computer Interface and VR with Unity
+ - Python for Machine Learning
 
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
