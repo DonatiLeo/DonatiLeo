@@ -3,7 +3,7 @@
 Math and Computer Science teacher at **Digital Science For Humans**  (DS4H) *graduate school* at **Université Côte d'Azur**
 
 I'm currently teaching 
- - Math for BigData using R
+ - Maths for Machine Learning using R and Python
  - C++ and OpenGL Realtime 3D Programming with Qt
  - Intermediate Java Programming
  - Android Programming with Kotlin and Jetpack Compose 
@@ -11,7 +11,6 @@ I'm currently teaching
  - Advanced Web Programming with LEAN
  - Microservices and CI with Spring
  - Advanced Human-Computer Interface and VR with Unity
- - Python for Machine Learning
 
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
