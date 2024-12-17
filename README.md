@@ -6,11 +6,10 @@ I'm currently teaching
  - Maths for Machine Learning using R and Python
  - C++ and OpenGL Realtime 3D Programming with Qt
  - Intermediate Java Programming
- - Android Programming with Kotlin and Jetpack Compose 
+ - Modern Android Programming with Kotlin and Jetpack Compose 
  - Swift and iOS Programming
  - Advanced Web Programming with LEAN
  - Microservices and CI with Spring
- - Advanced Human-Computer Interface and VR with Unity
 
 <!--
 **DonatiLeo/DonatiLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
