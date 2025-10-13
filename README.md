@@ -6,9 +6,9 @@ I'm currently teaching
  - Maths for Machine Learning using R and Python
  - C++ and OpenGL Realtime 3D Programming with Qt
  - Intermediate Java Programming
- - Modern Android Programming with Kotlin and Jetpack Compose 
+ - Modern Android Development with Kotlin and Jetpack Compose 
  - Swift and iOS Programming
- - Advanced Web Programming with LEAN
+ - Advanced Web Programming with MEAN
  - Microservices and CI with Spring
 
 <!--
