@@ -8,7 +8,8 @@ I'm currently teaching
  - Intermediate Java Programming
  - Modern Android Development with Kotlin and Jetpack Compose 
  - Swift and iOS Programming
- - Advanced Web Programming with MEAN
+ - Advanced Web Programming with the MEAN stack
+ - Adding AI in kotlin apps with Koog
  - Microservices and CI with Spring
 
 <!--
