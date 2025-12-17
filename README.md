@@ -1,4 +1,4 @@
-## Hi 👋, I'm Leo Donati, PhD
+## Hi 👋, I'm Leombattista Donati, PhD
 
 Math and Computer Science teacher at **Digital Science For Humans**  (DS4H) *graduate school* at **Université Côte d'Azur**
 
